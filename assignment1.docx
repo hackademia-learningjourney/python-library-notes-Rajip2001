@@ -1,0 +1,44 @@
+1. NumPy
+
+    Purpose:        Fundamental package for numerical computing in Python.
+    Key Features:   Provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. 
+                    It serves as the foundation for many other data science libraries.
+
+
+2. SciPy
+
+    Purpose:        Builds on NumPy to provide additional functionality for scientific and technical computing.
+    Key Features:   Includes modules for optimization, integration, interpolation, eigenvalue problems, algebraic equations, and more. 
+                    It is widely used in scientific research and engineering.
+
+
+3. scikit-learn
+
+    Purpose:        A powerful tool for data mining and data analysis, built on NumPy, SciPy, and matplotlib.
+    Key Features:   Provides simple and efficient tools for data mining and data analysis, including classification, regression, clustering, dimensionality reduction, and model selection. 
+                    It is well-suited for supervised and unsupervised learning.
+
+
+4. Pandas
+
+    Purpose:        Data manipulation and analysis library.
+    Key Features:   Offers data structures like Series (1D) and DataFrame (2D) for handling and manipulating structured data, similar to SQL tables or Excel spreadsheets.
+                    It provides tools for data cleaning, preparation, and analysis.
+
+
+5. TensorFlow
+    Purpose:        Open-source library for numerical computation using data flow graphs, primarily used for deep learning.
+    Key Features:   Provides a flexible architecture for deploying computation across various platforms (CPUs, GPUs, TPUs).
+                    It is highly used in building and training neural networks.
+
+
+6. Keras
+    Purpose:        High-level neural networks API, written in Python, and capable of running on top of TensorFlow, Theano, or CNTK.
+    Key Features:   Simplifies the creation of complex deep learning models by providing user-friendly APIs for building and training neural networks. 
+                    Keras is known for its simplicity and ease of use.
+
+
+7. PyTorch
+    Purpose:        An open-source machine learning library primarily used for applications such as computer vision and natural language processing.
+    Key Features:   Provides a flexible and intuitive interface for deep learning, with strong GPU acceleration.
+                    PyTorch is popular for research and development due to its dynamic computational graph and ease of use.
